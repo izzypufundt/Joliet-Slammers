@@ -1,1 +1,3 @@
 # Joliet-Slammers
+
+This repository contains R scripts and Shiny applications developed during my time as a Baseball Analytics Intern with the Joliet Slammers, a professional baseball team competing in the Frontier League. The tools here were built using Trackman pitch tracking data and are designed to support advance scouting, opponent preparation, player evaluation, and player development. Projects range from interactive Shiny dashboards for hitter and pitcher scouting to predictive models and independent research initiatives exploring pitch design, lineup optimization, chase rate tendencies, and pitch sequencing analysis. All applications are built in R and use packages including Shiny, Plotly, ggplot2, tidyverse, and DT.
